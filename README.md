@@ -30,7 +30,7 @@
 
 ### Stats 📈
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rlopxhan21&theme=rouge&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rlopxhan21&theme=xcode&hide_border=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlopxhan21&show_icons=true&locale=en&layout=compact" alt="rlopxhan21" /></p>
 
