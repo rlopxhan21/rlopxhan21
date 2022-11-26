@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available at [rlopxhan21.github.io](rlopxhan21.github.io)
+- 👨‍💻 All of my projects are available at (rlopxhan21.github.io)
 
 - 💬 Ask me about **python & javascript**
 
