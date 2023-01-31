@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlopxhan21" alt="rlopxhan21" /></a> </p>
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif))
+![](https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 - 🌱 I’m currently learning **django, react.js & next.js**
