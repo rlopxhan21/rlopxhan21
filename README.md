@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ronish Lopxhan</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
+![](https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlopxhan21&label=Profile%20views&color=0e75b6&style=flat" alt="rlopxhan21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlopxhan21" alt="rlopxhan21" /></a> </p>
 
 
-![](https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 
 - 🌱 I’m currently learning **django, react.js & next.js**
