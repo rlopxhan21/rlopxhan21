@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-```js
+```python
 import SoftwareDeveloper from 'rlopxhan21';
 
 class Bio extends SoftwareDeveloper {
