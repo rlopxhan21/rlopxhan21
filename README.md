@@ -3,19 +3,21 @@
 </p>
 
 ```python
-import SoftwareDeveloper from 'rlopxhan21';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Ronish Lopxhan';
-  title    = 'Software Engineer';
-  location = 'Sydney Australia';
-}
+class Rlopxhan21:
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['Python', 'JavaScript', 'TypeScript'];
-  databases  = ['MySQL', 'PostgreSQL'];
-  frameworks/library = ['Django', 'ReactJS', 'NextJS', 'GraphQL'];
-}
+  def __init__(self):
+    self.name = "Ronish Lopxhan
+    self.title = "Full Stack Software Developer"
+    self.location = "Sydney NSW Australia"
+    
+  def get_skills(self):
+    languages = ['Python', 'JavaScript', 'TypeScript']
+    frameworks = ['Django', 'Django REST Framework', 'NextJS']
+    library = ['ReactJS', 'Redux', 'Material-UI']
+    databases = ['PostgreSQL', 'MySQL', 'SQLite']
+    
+    
 ```
 
 <h3 align="left">Connect with me:</h3>
