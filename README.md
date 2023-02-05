@@ -7,7 +7,7 @@
 class Rlopxhan21:
 
   def __init__(self):
-    self.name = "Ronish Lopxhan
+    self.name = "Ronish Lopxhan"
     self.title = "Full Stack Software Developer"
     self.location = "Sydney NSW Australia"
     
