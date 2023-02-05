@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ronish Lopxhan</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-![](https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+```js
+import SoftwareDeveloper from 'rlopxhan21';
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rlopxhan21&label=Profile%20views&color=0e75b6&style=flat" alt="rlopxhan21" /> </p>
+class Bio extends SoftwareDeveloper {
+  name     = 'Ronish Lopxhan';
+  title    = 'Software Engineer';
+  location = 'Sydney Australia';
+}
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlopxhan21" alt="rlopxhan21" /></a> </p>
-
-
-
-
-
-- 🌱 I’m currently learning **django, react.js & next.js**
-
-- 👯 I’m looking to collaborate on **open source projects.**
-
-- 👨‍💻 All of my projects are available at https://rlopxhan21.github.io/
-
-- 💬 Ask me about **python & javascript**
-
-- 📫 How to reach me **rlopxhan21@gmail.com**
-
-
+class Skills extends SoftwareDeveloper {
+  languages  = ['Python', 'JavaScript', 'TypeScript'];
+  databases  = ['MySQL', 'PostgreSQL'];
+  frameworks/library = ['Django', 'ReactJS', 'NextJS', 'GraphQL'];
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
