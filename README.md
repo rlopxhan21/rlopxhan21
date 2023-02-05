@@ -17,6 +17,9 @@ class Rlopxhan21:
     library = ['ReactJS', 'Redux', 'Material-UI']
     databases = ['PostgreSQL', 'MySQL', 'SQLite']
     
+  def connect_me(self):
+    linkedin: "https://www.linkedin.com/in/ronishlopxhan/"
+    
     
 ```
 
