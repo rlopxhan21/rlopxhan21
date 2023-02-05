@@ -18,7 +18,7 @@ class Rlopxhan21:
     databases = ['PostgreSQL', 'MySQL', 'SQLite']
     
   def connect_me(self):
-    linkedin: "https://www.linkedin.com/in/ronishlopxhan/"
+    linkedin: https://www.linkedin.com/in/ronishlopxhan/
     
     
 ```
