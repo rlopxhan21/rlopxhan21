@@ -26,8 +26,7 @@ class Rlopxhan21:
 <a href="https://twitter.com/lopxhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lopxhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ronishlopxhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronishlopxhan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rlopxhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rlopxhan21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rlopxhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rlopxhan21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rlopxhan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rlopxhan21" height="30" width="40" /></a>
+<a href="https://leetcode.com/rlopxhan21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rlopxhan21" height="30" width="40" /></a>
 </p>
 
 
