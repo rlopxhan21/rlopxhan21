@@ -11,7 +11,6 @@ alt="snake" /></a>
   
 <h2 align="center"> Github stats </h2>
 <br/>
-<summary><h3>Languages</h3></summary>
 <p align="center">
 <a href="https://github.com/rlopxhan21/">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlopxhan21&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
